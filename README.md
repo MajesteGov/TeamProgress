@@ -1,2 +1,3 @@
 # TeamProgress
-tfwprojekt repos
+das ist unsere Repos für technische für Wirtschaftsinformatik
+
